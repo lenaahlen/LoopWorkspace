@@ -45,7 +45,7 @@ jobs:
 
           # Submodule xxxxx patches: Follow prototype above 
           # Commit number for changing of guard rails (Guardrail+Settings.swift) Changed glucose range from 87 to 75:
-          SHA-1 = fd94068c25702b6f01ca59a429ffee7a3bbfae6b
+          # SHA-1 = fd94068c25702b6f01ca59a429ffee7a3bbfae6b
 
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
